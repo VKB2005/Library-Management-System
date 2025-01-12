@@ -8,7 +8,7 @@ Commands or steps to run the project
  Step-1: Ensure your PC have java version of java 22.0.2\
  Step-2: Save the code file in one directory\
  Step-3: open the terminal command from the directory where codes are saved\ 
- Step-4: run the command javac *.java\
+ Step-4: run the command javac *.java
  Step-5: run the command java Main
 
 After entering to the MainMenu first add book and add member in admin panel by login into the admin by admin credentials. So that we can effectively see the functioning of the features in the project.
